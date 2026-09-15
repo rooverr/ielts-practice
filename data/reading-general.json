@@ -1,0 +1,75 @@
+{
+  "test": "IELTS",
+  "section": "reading-general",
+  "maxRawScore": 40,
+  "scope": "General Training Reading only \u2014 noticeably harsher at the top.",
+  "note": "Indicative, not official. The IELTS Partners do not publish a fixed row-by-row raw-score to band table; thresholds shift by about one mark between test versions. The band 5/6/7/8 anchor marks and the overall-band rounding rule ARE official.",
+  "source": "https://ieltspractice.app",
+  "thresholds": [
+    {
+      "band": 9,
+      "rawMin": 40,
+      "rawMax": 40
+    },
+    {
+      "band": 8.5,
+      "rawMin": 39,
+      "rawMax": 39
+    },
+    {
+      "band": 8,
+      "rawMin": 38,
+      "rawMax": 38
+    },
+    {
+      "band": 7.5,
+      "rawMin": 36,
+      "rawMax": 37
+    },
+    {
+      "band": 7,
+      "rawMin": 34,
+      "rawMax": 35
+    },
+    {
+      "band": 6.5,
+      "rawMin": 32,
+      "rawMax": 33
+    },
+    {
+      "band": 6,
+      "rawMin": 30,
+      "rawMax": 31
+    },
+    {
+      "band": 5.5,
+      "rawMin": 27,
+      "rawMax": 29
+    },
+    {
+      "band": 5,
+      "rawMin": 23,
+      "rawMax": 26
+    },
+    {
+      "band": 4.5,
+      "rawMin": 19,
+      "rawMax": 22
+    },
+    {
+      "band": 4,
+      "rawMin": 15,
+      "rawMax": 18
+    },
+    {
+      "band": 3.5,
+      "rawMin": 12,
+      "rawMax": 14
+    },
+    {
+      "band": 3,
+      "rawMin": 9,
+      "rawMax": 11
+    }
+  ]
+}

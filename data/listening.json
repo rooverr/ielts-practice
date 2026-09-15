@@ -1,0 +1,75 @@
+{
+  "test": "IELTS",
+  "section": "listening",
+  "maxRawScore": 40,
+  "scope": "Both Academic and General Training use one Listening table.",
+  "note": "Indicative, not official. The IELTS Partners do not publish a fixed row-by-row raw-score to band table; thresholds shift by about one mark between test versions. The band 5/6/7/8 anchor marks and the overall-band rounding rule ARE official.",
+  "source": "https://ieltspractice.app",
+  "thresholds": [
+    {
+      "band": 9,
+      "rawMin": 39,
+      "rawMax": 40
+    },
+    {
+      "band": 8.5,
+      "rawMin": 37,
+      "rawMax": 38
+    },
+    {
+      "band": 8,
+      "rawMin": 35,
+      "rawMax": 36
+    },
+    {
+      "band": 7.5,
+      "rawMin": 32,
+      "rawMax": 34
+    },
+    {
+      "band": 7,
+      "rawMin": 30,
+      "rawMax": 31
+    },
+    {
+      "band": 6.5,
+      "rawMin": 26,
+      "rawMax": 29
+    },
+    {
+      "band": 6,
+      "rawMin": 23,
+      "rawMax": 25
+    },
+    {
+      "band": 5.5,
+      "rawMin": 18,
+      "rawMax": 22
+    },
+    {
+      "band": 5,
+      "rawMin": 16,
+      "rawMax": 17
+    },
+    {
+      "band": 4.5,
+      "rawMin": 13,
+      "rawMax": 15
+    },
+    {
+      "band": 4,
+      "rawMin": 11,
+      "rawMax": 12
+    },
+    {
+      "band": 3.5,
+      "rawMin": 8,
+      "rawMax": 10
+    },
+    {
+      "band": 3,
+      "rawMin": 6,
+      "rawMax": 7
+    }
+  ]
+}

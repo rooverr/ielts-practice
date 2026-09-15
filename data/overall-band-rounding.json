@@ -1,0 +1,31 @@
+{
+  "rule": "Average the four skill bands, then round to the nearest half band. Ties round UP.",
+  "official": true,
+  "examples": [
+    {
+      "listening": 6.5,
+      "reading": 6.5,
+      "writing": 5.0,
+      "speaking": 7.0,
+      "average": 6.25,
+      "overall": 6.5
+    },
+    {
+      "listening": 4.0,
+      "reading": 3.5,
+      "writing": 4.0,
+      "speaking": 4.0,
+      "average": 3.875,
+      "overall": 4.0
+    },
+    {
+      "listening": 6.5,
+      "reading": 6.5,
+      "writing": 5.5,
+      "speaking": 6.0,
+      "average": 6.125,
+      "overall": 6.0
+    }
+  ],
+  "source": "https://ieltspractice.app"
+}
