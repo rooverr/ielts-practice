@@ -1,6 +1,6 @@
 # IELTS band score calculator & conversion data
 
-**Live tool:** https://rooverr.github.io/ielts-band-data/
+**Live tool:** https://rooverr.github.io/ielts-practice/
 
 Convert an IELTS raw score out of 40 into a band for Listening, Academic Reading
 or General Training Reading — and see how many more questions stand between you
